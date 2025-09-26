@@ -17,6 +17,7 @@
 ### ⚡ Fun Fact
 - I love watching girl band anime 🎶  
   Favorites: *it's MyGO*, *Avemujica*, *GIRLS BAND CRY*, *K-On! (轻音少女)* and other girl band shows
+- I really love *お兄ちゃんはおしまい！* ❤️
 
 
 ---
