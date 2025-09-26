@@ -89,3 +89,6 @@
 <a target="_blank" href="https://www.youtube.com/@Aparamecium"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://space.bilibili.com/670240796"><img src="https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
 </p>
+<p align="center">
+💻 My resource forum: <a target="_blank" href="https://www.hvhbbs.cc">www.hvhbbs.cc</a>
+</p>
