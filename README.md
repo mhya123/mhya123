@@ -2,23 +2,45 @@
 
 ![Coding GIF](https://i.nfa.my/i/2025/09/27/4zzwgh.gif)
 
+<details>
+<summary>🇺🇸 English</summary>
+
 ### 🔭 I’m currently working on
 - Full-stack web development with Java, Kotlin & Node.js
 - Minecraft modding & plugin development
 - APIs, automation tools, and backend systems
-
 
 ### 🌱 I’m learning
 - Advanced Minecraft plugin & mod development
 - Web development: APIs & frameworks
 - Cross-platform Java & Kotlin projects
 
-
 ### ⚡ Fun Fact
 - I love watching girl band anime 🎶  
-  Favorites: *it's MyGO*, *Avemujica*, *GIRLS BAND CRY*, *K-On! (轻音少女)* and other girl band shows
+  Favorites: *it's MyGO*, *Avemujica*, *GIRLS BAND CRY*, *K-On! (轻音少女)*  
 - I really love *お兄ちゃんはおしまい！* ❤️
 
+</details>
+
+<details>
+<summary>🇨🇳 中文</summary>
+
+### 🔭 我目前在做的事情
+- 使用 Java、Kotlin 和 Node.js 开发全栈 Web 应用
+- Minecraft 模组及 Spigot 插件开发
+- API、自动化工具和后端系统开发
+
+### 🌱 我正在学习
+- 高级 Minecraft 插件与模组开发
+- Web 开发：API 与框架
+- 跨平台 Java 与 Kotlin 项目
+
+### ⚡ 趣味小事实
+- 我喜欢看少女乐队类动漫 🎶  
+  喜爱的作品：*it's MyGO*、*Avemujica*、*GIRLS BAND CRY*、*K-On! (轻音少女)*  
+- 我特别喜欢 *お兄ちゃんはおしまい！* ❤️
+
+</details>
 
 ---
 
@@ -60,7 +82,7 @@
 
 ---
 
-### ⚡️ Where to find me
+### ⚡️ Where to find me / 联系我
 
 <p>
 <a target="_blank" href="https://x.com/mhya520"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
