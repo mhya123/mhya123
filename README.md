@@ -84,11 +84,13 @@
 
 ### ⚡️ Where to find me / 联系我
 
-<p>
-<a target="_blank" href="https://x.com/mhya520"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.youtube.com/@Aparamecium"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a>
+<p align="center">
+<a target="_blank" href="https://x.com/mhya520"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#1DA1F2" alt="twitter" /></a>
+<a target="_blank" href="https://www.youtube.com/@Aparamecium"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#FF0000" alt="youtube" /></a>
 <a target="_blank" href="https://space.bilibili.com/670240796"><img src="https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
+<a target="_blank" href="http://discordapp.com/users/1094269777926701188"><img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 </p>
+
 <p align="center">
 💻 My resource forum: <a target="_blank" href="https://www.hvhbbs.cc">www.hvhbbs.cc</a>
 </p>
