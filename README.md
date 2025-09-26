@@ -35,7 +35,7 @@
 - Web 开发：API 与框架
 - 跨平台 Java 与 Kotlin 项目
 
-### ⚡ 趣味小事实
+### ⚡ 我的爱好
 - 我喜欢看少女乐队类动漫 🎶  
   喜爱的作品：*it's MyGO*、*Avemujica*、*GIRLS BAND CRY*、*K-On! (轻音少女)*  
 - 我特别喜欢 *お兄ちゃんはおしまい！* ❤️
