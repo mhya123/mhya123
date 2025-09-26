@@ -5,12 +5,12 @@
 <details>
 <summary>🇺🇸 English</summary>
 
-### 🔭 I’m currently working on
+### 🔭 Currently working on
 - Full-stack web development with Java, Kotlin & Node.js
 - Minecraft modding & plugin development
 - APIs, automation tools, and backend systems
 
-### 🌱 I’m learning
+### 🌱 Learning
 - Advanced Minecraft plugin & mod development
 - Web development: APIs & frameworks
 - Cross-platform Java & Kotlin projects
@@ -35,7 +35,7 @@
 - Web 开发：API 与框架
 - 跨平台 Java 与 Kotlin 项目
 
-### ⚡ 我的爱好
+### ⚡ 趣味小事实
 - 我喜欢看少女乐队类动漫 🎶  
   喜爱的作品：*it's MyGO*、*Avemujica*、*GIRLS BAND CRY*、*K-On! (轻音少女)*  
 - 我特别喜欢 *お兄ちゃんはおしまい！* ❤️
@@ -62,11 +62,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MhYa123&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhYa123&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MhYa123&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhYa123&layout=compact&theme=radical" width="48%" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:10px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhYa123&theme=react-dark" />
 </div>
 
@@ -85,11 +85,21 @@
 ### ⚡️ Where to find me / 联系我
 
 <p align="center">
-<a target="_blank" href="https://x.com/mhya520"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#1DA1F2" alt="twitter" /></a>
-<a target="_blank" href="https://www.youtube.com/@Aparamecium"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#FF0000" alt="youtube" /></a>
-<a target="_blank" href="https://space.bilibili.com/670240796"><img src="https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili" /></a>
-<a target="_blank" href="http://discordapp.com/users/1094269777926701188"><img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+<a target="_blank" href="https://x.com/mhya520">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" />
+</a>
+
+<a target="_blank" href="https://www.youtube.com/@Aparamecium">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a target="_blank" href="https://space.bilibili.com/670240796">
+  <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+</a>
+<a target="_blank" href="http://discordapp.com/users/1094269777926701188">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 </p>
+
 
 <p align="center">
 💻 My resource forum: <a target="_blank" href="https://www.hvhbbs.cc">www.hvhbbs.cc</a>
